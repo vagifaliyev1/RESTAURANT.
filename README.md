@@ -1,5 +1,5 @@
 
--- Drop tables in the correct order due to dependencies
+--Drop tables in the correct order due to dependencies
 DROP TABLE IF EXISTS Order_Details ;
 DROP TABLE IF EXISTS Payments ;
 DROP TABLE IF EXISTS Orders ;
